@@ -132,6 +132,7 @@ export default class App extends React.Component {
     });
   };
 
+  
   renderPickers = () => (
     <View style={styles.pickerContainer}>
       <Picker
